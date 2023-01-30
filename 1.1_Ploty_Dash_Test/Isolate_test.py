@@ -10,6 +10,9 @@ print(ds.head())
 
 # Build your components
 app = Dash(__name__, external_stylesheets=[dbc.themes.QUARTZ])
+# to rendering and porting via Git
+server = app.server
+
 mytitle = dcc.Markdown(children='')
 mygraph = dcc.Graph(figure={})
 dropdown = dcc.Dropdown(options=ds.columns.values[1:],

@@ -1,0 +1,5 @@
+# Packages
+
+dash2.6.0 # and ^
+pandas
+gunicorn

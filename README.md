@@ -2,12 +2,13 @@
 ### Initially it was created, as a Python programmer who has got lesser knowedge of Js and JQ
 This repo will be containing Git propagated visualization apps for all. I intend to make it more stronger and harness the repo for the Indian subconitient, primariliy, as well as for some regions of the world.
 
-### Added extras- Compiled libraries for GIS-needed works, AI tool's list for  utilities
+### [Added extras](https://github.com/anirbanGIS/GI_VisualApps_Git/tree/main/Add_ons)
+(Compiled libraries for GIS-needed works, AI tool's list for  utilities)
 
 ## Run Py on cloud, remotely, by squeezing data-lover Google :)
 ### Running out of your PC memory? Leverage Google Colab (Freely avaliable, with limitation)
 
-• Open Google Colab: https://colab.research.google.com/
+• [Open Google Colab](https://colab.research.google.com/)
 
 • Create a new file
 
@@ -23,6 +24,6 @@ This repo will be containing Git propagated visualization apps for all. I intend
 
 ![3](https://user-images.githubusercontent.com/59864902/215460762-8ae91506-fe53-4077-a53f-785bb8d5cb51.png)
 
-• Click ###OK
+• Click _**OK**_
 
 Now a copy of your file will be saved to your Git repo

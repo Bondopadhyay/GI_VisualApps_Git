@@ -1,5 +1,4 @@
 # Packages
-
-dash2.6.0 # and ^
+dash==2.6.0 #and ^
 pandas
 gunicorn

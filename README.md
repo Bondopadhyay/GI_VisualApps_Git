@@ -5,8 +5,9 @@ This repo will be containing Git propagated visualization apps for all. I intend
 ### [Added extras](https://github.com/anirbanGIS/GI_VisualApps_Git/tree/main/Add_ons)
 (Compiled libraries for GIS-needed works, AI tool's list for  utilities)
 
-## Run Py on cloud, remotely, by squeezing data-lover Google :)
-### Running out of your PC memory? Leverage Google Colab (Freely avaliable, with limitation)
+## Running out of your PC memory? Leverage Google Colab, Jupyter on cloud (Freely avaliable, with limitation)
+
+### Run Py on cloud, remotely, by squeezing data-th1ef Alphabet's Google- 
 
 • [Open Google Colab](https://colab.research.google.com/)
 

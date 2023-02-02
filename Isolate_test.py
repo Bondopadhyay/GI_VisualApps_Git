@@ -5,7 +5,7 @@ import pandas as pd
 
 # incorporate data into app
 # Source - https://www.cdc.gov/nchs/pressroom/stats_of_the_states.htm
-ds = pd.read_csv("SPore_SZs_UrPl\\Socio_Health_US.csv")
+ds = pd.read_csv("https://github.com/anirbanGIS/GI_VisualApps_Git/blob/main/Socio_Health_US.csv")
 print(ds.head())
 
 # Build your components
